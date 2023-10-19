@@ -1,0 +1,8 @@
+Day-1
+
+- Print 1 to N without using loop
+- Fibonacci number
+- Remove duplicates
+- Find power of number
+- Family Structure
+- Flip Game
